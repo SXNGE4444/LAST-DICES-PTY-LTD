@@ -1,0 +1,1 @@
+{\n  "name": "last-dices-pty-ltd",\n  "version": "1.0.0",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js",\n    "dev": "vercel dev"\n  },\n  "dependencies": {},\n  "devDependencies": {},\n  "engines": {\n    "node": ">=14.x"\n  },\n  "vercel": {\n    "framework": "none"\n  }\n}
